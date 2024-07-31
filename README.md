@@ -15,7 +15,7 @@
 
 - ⊹𝅄 ︵ Sports that I currently play: Badminton, Basketball
 
-- ⊹𝅄 ︵ I have a very awesome, amazing and beautiful girlfrieeeend!! I love her so much :3
+- ⊹𝅄 ︵ I have a very awesome, amazing, and beautiful girlfriend!! I love her so much :3"
 
 
 ---
