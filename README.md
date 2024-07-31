@@ -41,12 +41,14 @@
 
 #
 
- ## 👝 Social
+ ## 👝 Socials
 <p align="center">
 <!-- 	<a href="https://pulkitgiddu.netlify.app/#/w" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
 	<a href="https://github.com/kdzyoda" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/khizhahaha/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
  	<a href="https://www.facebook.com/khizloml/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png"/></a>
 	<a href="mailto:khizhazxcvbnm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+ 	<a href="https://x.com/asdfghjkhizzzz" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
+  	<a href="https://ph.pinterest.com/lunaf0x/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/pinterest.png" alt="Pinterest"/></a>
 
 </p>
