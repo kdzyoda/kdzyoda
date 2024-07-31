@@ -1,11 +1,20 @@
 # 👩‍💻 Kxzytus
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=43&duration=2500&pause=1000&center=true&vCenter=true&width=1280&lines=Bachelor+of+Science+in+Information+Technology;Bugsay+CSU'ans!)](https://git.io/typing-svg)
+
+---
+
 ## **`BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY Student`**
 
--> Greetings folks! I'm 17 y/o | 1st year Bachelor of Science in Information Technology | Caraga State University, Ampayon, Butuan City, 8600, Philippines
+- ⊹𝅄 ︵ Greetings folks! I'm 17 y/o | 1st year Bachelor of Science in Information Technology | Caraga State University, Ampayon, Butuan City, 8600, Philippines
 
--> Random coding stuffs and my school projects are stored here.
+- ⊹𝅄 ︵ I'm currently a freshmen student, and working on enhancing my skills
+
+- ⊹𝅄 ︵ Random coding stuffs and my school projects are stored here
+
+- ⊹𝅄 ︵ Sports that I currently play: Badminton, Basketball
+
 
 ---
 
