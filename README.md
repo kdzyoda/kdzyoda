@@ -2,7 +2,7 @@
 
 **`BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY Student (Web Dev/Programmer)`**
 
-Greetings folks! Short description about me ---> 17 y/o | 1st year Bachelor of Science in Information Technology
+Greetings folks! I'm 17 y/o | 1st year Bachelor of Science in Information Technology
 Random coding stuffs and my projects are stored here incase of cleaning my pc's storage
 
  <p align="left">
