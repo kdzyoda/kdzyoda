@@ -1,7 +1,7 @@
 # 👩‍💻 Kxzytus
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=43&duration=2500&pause=1000&center=true&vCenter=true&width=1280&lines=Bachelor+of+Science+in+Information+Technology;Bugsay+CSU'ans!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=47&duration=2500&pause=1000&center=true&vCenter=true&width=1280&lines=Bachelor+of+Science+in+Information+Technology;Bugsay+CSU'ans!)](https://git.io/typing-svg)
 
 ---
 
