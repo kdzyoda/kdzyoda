@@ -38,6 +38,6 @@
 	<a href="https://github.com/kdzyoda" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/khizhahaha/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
  <a href="https://www.facebook.com/khizloml/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png"/></a>
-	<a href="Composeto:khizhazxcvbnm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:khizhazxcvbnm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 
 </p>
