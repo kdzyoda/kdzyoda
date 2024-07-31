@@ -5,7 +5,7 @@
 
 ---
 
-## **`BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY Student`**
+### **`BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY Student`**
 
 - ⊹𝅄 ︵ Greetings folks! I'm 17 y/o | 1st year Bachelor of Science in Information Technology | Caraga State University, Ampayon, Butuan City, 8600, Philippines
 
@@ -16,8 +16,7 @@
 - ⊹𝅄 ︵ Sports that I currently play: Badminton, Basketball
 
 - ⊹𝅄 ︵ I have a very awesome, amazing, and beautiful girlfriend!! I love her so much :3"
-
-
+  
 ---
 
  ## ⭐ GitHub Profile
