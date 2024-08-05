@@ -53,3 +53,5 @@
   	<a href="https://ph.pinterest.com/lunaf0x" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/pinterest.png" alt="Pinterest"/></a>
 
 </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdzyoda.kdzyoda&left_color=blue&right_color=green)
