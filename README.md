@@ -71,5 +71,17 @@
   	<a href="https://ph.pinterest.com/lunaf0x" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/pinterest.png" alt="Pinterest"/></a>
 </p>
 
+## ⚡ Games I Play
+
+<a href="https://playvalorant.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/valorant.png" alt="Valorant" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/roblox.png" alt="Roblox" width="40" height="40"/>
+</a>
+<a href="https://osu.ppy.sh" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/osu.png" alt="OSU" width="40" height="40"/>
+</a>
+
+---
+
 ![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/tzuyu-bot)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdzyoda.kdzyoda&left_color=blue&right_color=green)
