@@ -83,5 +83,5 @@
 
 ---
 
-![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda?tab=repositories)
+![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/coding-stuff)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdzyoda.kdzyoda&left_color=blue&right_color=green)
