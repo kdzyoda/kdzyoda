@@ -7,7 +7,7 @@
 
 ## **`BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY Student`**
 
-- ⊹𝅄 ︵ Greetings folks! I'm 17 y/o | 1st year Bachelor of Science in Information Technology | Caraga State University, Ampayon, Butuan City, 8600, Philippines
+- ⊹𝅄 ︵ Greetings folks! I'm 18 y/o | 1st year Bachelor of Science in Information Technology | Caraga State University, Ampayon, Butuan City, 8600, Philippines
 
 - ⊹𝅄 ︵ I'm currently a freshmen student, and working on enhancing my skills
 
