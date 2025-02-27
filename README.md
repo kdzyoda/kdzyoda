@@ -9,7 +9,7 @@
 
 - ⊹𝅄 ︵ Greetings folks! I'm 18 y/o | 1st year Bachelor of Science in Information Technology | Caraga State University, Ampayon, Butuan City, 8600, Philippines
 
-- ⊹𝅄 ︵ I'm currently a freshmen student, and working on enhancing my skills
+- ⊹𝅄 ︵ I'm currently a 1st year student, and working on enhancing my skills
 
 - ⊹𝅄 ︵ Random coding stuffs and my school projects are stored here
 
