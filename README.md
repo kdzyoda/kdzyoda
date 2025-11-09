@@ -86,5 +86,4 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/coding-stuff)
 ![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/tzuyu-bot)
 ![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/ShopBot)
-)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdzyoda.kdzyoda&left_color=blue&right_color=green)
