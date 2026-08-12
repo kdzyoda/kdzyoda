@@ -7,7 +7,7 @@
 
 ## **`BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY Student`**
 
-- ⊹𝅄 ︵ Greetings folks! I'm 19 y/o | 1st year Bachelor of Science in Information Technology | Caraga State University, Ampayon, Butuan City, 8600, Philippines
+- ⊹𝅄 ︵ Greetings folks! I'm 20 y/o | 3rd year Bachelor of Science in Information Technology | Caraga State University, Ampayon, Butuan City, 8600, Philippines
 
 - ⊹𝅄 ︵ I'm currently a 2nd year student, and working on enhancing my skills
 
@@ -75,15 +75,20 @@
 
 <a href="https://playvalorant.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/valorant.png" alt="Valorant" width="40" height="40"/>
-    <img src="https://img.icons8.com/ios-filled/50/roblox.png" alt="Roblox" width="40" height="40"/>
 </a>
 <a href="https://osu.ppy.sh" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/osu.png" alt="OSU" width="40" height="40"/>
+</a>
+<a href="https://roblox.com/login" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/roblox.png" alt="Roblox" width="40" height="40"/>
+</a>
+<a href="https://store.steampowered.com/app/570/Dota_2/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/dota.png" alt="Dota 2" width="40" height="40"/>
 </a>
 
 ---
 
 ![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/coding-stuff)
 ![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/tzuyu-bot)
-![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/ShopBot)
+![GitHub top language](https://img.shields.io/github/languages/top/kdzyoda/SITeS)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kdzyoda.kdzyoda&left_color=blue&right_color=green)
